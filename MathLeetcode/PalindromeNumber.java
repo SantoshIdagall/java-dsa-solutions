@@ -14,12 +14,10 @@ public class PalindromeNumber {
              
         }
          return orgnum == rev;
-
     }
   public static void main(String[] args) {
     int num =  121;
      System.out.println(ispalindrome(num));
   }
-
 
 }
