@@ -25,9 +25,7 @@ public class TwoSum {
 
         int[] nums = {2, 7, 11, 15};
         int target = 9;
-
         int[] result = obj.twoSum(nums, target);
-
         System.out.println("Indices: " + result[0] + ", " + result[1]);
     }
         
